@@ -1,0 +1,22 @@
+body {
+  padding: 20px;
+  font-size: 14px;
+  font-family: 'Courier New', Helvetica, Arial, sans-serif;
+  color: #444;
+  background-color: #f4f4f4;
+}
+
+a {
+  color: #1631ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.spacer {
+  margin-top: 50px;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 20px;
+}
